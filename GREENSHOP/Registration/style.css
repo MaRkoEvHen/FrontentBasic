@@ -35,6 +35,7 @@ body{
     font-style: normal;
     font-weight: 500;
     line-height: 16px;
+    font-family: "Cera Pro";
 }
 .divider{
     color: #3D3D3D;
@@ -42,6 +43,7 @@ body{
     font-style: normal;
     font-weight: 250;
     line-height: 16px;
+    font-family: "Cera Pro"; 
 }
 .registration{
     color: #46A358;
@@ -49,7 +51,7 @@ body{
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
-    line-height: 16px; /* 80% */
+    line-height: 16px; 
 }
 .subtitle{ 
     padding: 40px 100px 0 ;
@@ -61,6 +63,7 @@ body{
     font-weight: 400;
     line-height: 16px;
     margin: 0 ;
+    font-family: "Cera Pro"; 
 }
 .auth-form{
     display: flex;
@@ -73,6 +76,7 @@ body{
     margin: 16px 0 0 ;
     width: 300px;
     height: 40px;
+    font-family: "Cera Pro"; 
 }
 .pass{
     width: 304px;
@@ -81,6 +85,7 @@ body{
     border-radius: 5px;
     border: 1px solid #EAEAEA;
     margin: 16px 0 0 ;
+    font-family: "Cera Pro"; 
 
 }
 .pass img{
@@ -114,6 +119,7 @@ body{
     font-weight: 700;
     line-height: 16px;
     cursor: pointer;
+    font-family: "Cera Pro"; 
 }
 .separator {
     display: flex;
@@ -135,6 +141,7 @@ body{
     font-style: normal;
     font-weight: 400;
     line-height: 16px;
+    font-family: "Cera Pro";
 }
 .auth-messanger{
     display: flex;
@@ -155,6 +162,7 @@ body{
     margin: 0 0 15px;
     cursor: pointer;
     background: #FFF;
+    font-family: "Cera Pro"; 
 
 }
 .auth-messanger img{
